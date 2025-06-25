@@ -1,0 +1,12 @@
+2025-06-24 08:30:20,903 - INFO - Initialized bot on Binance Futures Testnet
+2025-06-24 08:30:58,242 - ERROR - Market Order Failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-24 08:39:17,563 - INFO - Initialized bot on Binance Futures Testnet
+2025-06-24 08:39:36,943 - ERROR - Market Order Failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 08:41:57,966 - ERROR - Market Order Failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 08:54:19,514 - ERROR - Limit Order Failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 09:15:30,039 - ERROR - Market Order Failed: APIError(code=-2019): Margin is insufficient.
+2025-06-24 09:15:48,671 - ERROR - Market Order Failed: APIError(code=-2027): Exceeded the maximum allowable position at current leverage.
+2025-06-24 09:18:33,220 - ERROR - Market Order Failed: APIError(code=-2019): Margin is insufficient.
+2025-06-24 09:21:41,444 - ERROR - Market Order Failed: APIError(code=-2019): Margin is insufficient.
+2025-06-24 09:22:34,717 - ERROR - Market Order Failed: APIError(code=-2019): Margin is insufficient.
+2025-06-24 09:28:52,385 - INFO - Market Order: {'orderId': 4667688144, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJbfb838d1250c4c4af6c35f', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750737532299}
