@@ -2,8 +2,8 @@ from basic_bot import BasicBot
 
 def main():
     print("Welcome to Binance Futures Testnet Bot")
-    api_key = "2192e7b6d520b0e986f935369cea2755e2403ed2bb2d4d7f53a28f6ad4e0bd06"
-    api_secret = "f2b6fc92ae51021df49c6629602c9704c787c5cf96c658df62b7a0119a255868"
+    api_key = input("Enter the api key")
+    api_secret = input("Enter the secret key")
     bot = BasicBot(api_key, api_secret)
 
     while True:
